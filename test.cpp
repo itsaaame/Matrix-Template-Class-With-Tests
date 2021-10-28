@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "Matrix.h"
+#include "matrix.h"
 
 
 // comaring matrices with each other in order to find them equal
